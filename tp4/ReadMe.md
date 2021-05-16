@@ -251,7 +251,7 @@ grant
 	alter any table,
 	drop any table
 to dev;
-
+```
 ```sql
 create role test;
 grant
