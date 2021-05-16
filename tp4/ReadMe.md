@@ -264,9 +264,6 @@ to test;
 create role devsecops;
 grant dba to devsecops;
 ```
-```sql
-
-```
 
 
  
